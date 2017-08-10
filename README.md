@@ -1,2 +1,3 @@
-# bluetooth-joystick-arduino
-[Arduino] Complement to bluetooth-joystick-android. Receives commands from Android application via HC-05 transceiver.
+# Arduino Bluetooth Controller
+
+[See this article for instructions.](https://medium.com/@smitham42/arduino-bluetooth-controller-ea866f9aac84)

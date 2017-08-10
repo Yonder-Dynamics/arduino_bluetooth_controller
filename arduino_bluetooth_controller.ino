@@ -33,16 +33,16 @@ void parseCommand(char input) {
     case '6': // START
       //pause();
       break;  
-    case '7': // SQUARE
+    case 's': // SQUARE
       //hop();
       break; 
-    case '8': // TRIANGLE
+    case 't': // TRIANGLE
       //skip();
       break;  
-    case '9': // X
+    case 'x': // X
       //jump();
       break;
-    case '10': // CIRCLE
+    case 'c': // CIRCLE
       //crawl();
       break;
   }
